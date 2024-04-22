@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi I'm, Hassan Issa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi I'm, Hassan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 <br>
@@ -69,18 +69,20 @@
 
 <li>
     <a href="https://linkedin.com/in/hassan-issa-7512a12a7" target="_blank" style="margin-bottom: 5px;">
-        LinkedIn: Link
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+        LinkedIn
     </a>
 </li>
 
 <br>
 
-
-<br>
-
 <li>
-<a href="mailto:hassanissa19@outlook.com" target="_blank">
-	mail: Hassanissa19@outlook.com
+    <a href="mailto:hassanissa19@outlook.com" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+        mail
+    </a>
+</li>
+
 </a>
 </li>
 	
