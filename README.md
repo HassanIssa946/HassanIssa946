@@ -11,10 +11,12 @@
 
 <br>
 
-- Bachelor of Computer Engineering 
+- Bachelor of Computer Engineering
+- WordPress website development
 - A passionate Self-taught ML and Data science developer
 - Currently learning NLP and LLM
 - I’m currently open for an Intern or a new job opportunity
+  
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -48,6 +50,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![WordPress](icons8-wordpress.svg)
      
 
 <br>
