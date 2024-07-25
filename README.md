@@ -14,8 +14,8 @@
 - Bachelor of Computer Engineering
 - WordPress website development
 - A passionate Self-taught ML and Data science developer
-- Currently learning NLP and LLM
-- I’m currently open for an Intern or a new job opportunity
+- learning NLP ,LLM and Generative AI
+- I’m currently open for a new opportunity
   
 <br><br>
 
