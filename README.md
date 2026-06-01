@@ -109,7 +109,7 @@ focus:
 
 ## 💼 Experience
 
-### 🚀 Junior AI Project Manager — NIM Digital Consultancy
+### 🚀 AI Project Manager — NIM Digital Consultancy
 `UAE, Remote` · `Aug 2024 – Present`
 
 - Delivered AI-enabled digital products by translating business goals into product scope, roadmap priorities, requirements, and delivery plans
