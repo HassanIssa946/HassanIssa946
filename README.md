@@ -24,8 +24,7 @@
 
 ```yaml
 name:       Hassan Issa
-role:       Junior AI Project Manager · Technical Product & AI Delivery
-current:    NIM Digital Consultancy (UAE, Remote)
+role:       AI Project Manager · Technical Product & AI Delivery
 education:  B.E. Computer Engineering — Uskudar University, Istanbul (GPA: 3.5)
 languages:  English (Fluent), Arabic (Native)
 focus:
