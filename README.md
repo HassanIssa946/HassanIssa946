@@ -32,8 +32,7 @@
 ```yaml
 name:       Hassan Issa
 role:       AI Project Manager · Technical Product & AI Delivery
-education:  B.E. Computer Engineering — Uskudar University
-languages:  English (Fluent), Arabic (Native)
+
 
 focus:
   - AI Product Management
